@@ -1,6 +1,6 @@
 ost-assignments
 ===============
-Shell Scripting:
+Shell Scripting: shell-scrioting-solution.sh
 For this assignment, we'll be creating a new command called question that can be used to ask questions, provide answers, and vote on questions and answers. Think of it as a simplified command line version of Quora. The command will store all of its data in a subdirectory of your home directory.
 The format of the command is:
    question option [args]
